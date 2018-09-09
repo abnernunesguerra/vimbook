@@ -6,10 +6,10 @@ O Vim guarda um registrador para cada arquivo editado veja mais no capítulo [Re
 '0 ........ abre o último arquivo editado
 '1 ........ abre o penúltimo arquivo editado
 Ctrl-6 .... abre o arquivo alternativo (booleano)
-
+```
 Bom, já que abrimos o nosso último arquivo editado com o comando
 ```
-`0
+'0
 ```
 podemos, e provavelmente o faremos, editar no mesmo ponto em que
 estávamos editando da última vez:
