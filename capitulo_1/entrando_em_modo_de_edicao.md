@@ -9,7 +9,7 @@ A .... inicia inserção de texto no final da linha
 I .... inicia inserção de texto no começo da linha
 o .... inicia inserção de texto na linha abaixo
 O .... inicia inserção de texto na linha acima
-gi ... inicia inserção no último ponto onde ocorreu iserção
+gi ... inicia inserção no último ponto onde ocorreu inserção
 ```
 
 Outra possibilidade é utilizar a tecla `<Insert>` para entrar no modo de
