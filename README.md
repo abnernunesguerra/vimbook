@@ -12,11 +12,6 @@ Este trabalho está em constante aprimoramento e é fruto da colaboração de vo
 
 Uma versão online e atualizada deste livro pode ser encontrada em: [https://vimbook.gitbook.io/vimbook/](https://vimbook.gitbook.io/vimbook/)
 
-O livro também está disponível nos formatos:
-* [pdf](https://www.gitbook.com/download/pdf/book/cassiobotaro/vimbook)
-* [mobi](https://www.gitbook.com/download/mobi/book/cassiobotaro/vimbook)
-* [ePub](https://www.gitbook.com/download/epub/book/cassiobotaro/vimbook)
-
 # Regras para contribuição
 
 [Veja como contribuir para o projeto](CONTRIBUTING.md)
